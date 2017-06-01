@@ -1,6 +1,6 @@
 {
   "name": "vulcainjs-mysql",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "MySQL database layer for Vulcainjs framework",
   "main": "dist/index.js",
   "scripts": {
